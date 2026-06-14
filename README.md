@@ -16,10 +16,6 @@ SmartGrade AI is an automated Answer Sheet Evaluation System developed to reduce
 - OCR
 - Flask (if used)
 
-## Team
-- Nourin
-- Team Members
-
 ## How to Run
 ```bash
 python app.py
